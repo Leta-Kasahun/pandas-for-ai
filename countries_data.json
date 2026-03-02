@@ -1,0 +1,34 @@
+{
+  "countries": [
+    {
+      "name": "Ethiopia",
+      "capital": "Addis Ababa",
+      "continent": "Africa",
+      "population": 123379924,
+      "cities": [
+        {"city": "Addis Ababa", "population": 5400000},
+        {"city": "Dire Dawa", "population": 500000}
+      ]
+    },
+    {
+      "name": "Germany",
+      "capital": "Berlin",
+      "continent": "Europe",
+      "population": 83240525,
+      "cities": [
+        {"city": "Berlin", "population": 3700000},
+        {"city": "Hamburg", "population": 1800000}
+      ]
+    },
+    {
+      "name": "Japan",
+      "capital": "Tokyo",
+      "continent": "Asia",
+      "population": 125836021,
+      "cities": [
+        {"city": "Tokyo", "population": 13900000},
+        {"city": "Osaka", "population": 2700000}
+      ]
+    }
+  ]
+}
