@@ -1,0 +1,101 @@
+product_id,product_name,category,price,rating,popularity,discount,stock
+1,Smartphone A,Electronics,650,4.6,92,10,40
+2,Smartphone B,Electronics,720,4.5,88,8,35
+3,Laptop A,Electronics,1100,4.7,90,12,25
+4,Laptop B,Electronics,980,4.4,85,10,20
+5,Tablet A,Electronics,420,4.3,80,15,50
+6,Tablet B,Electronics,390,4.2,78,10,60
+7,Headphones A,Electronics,120,4.5,86,20,75
+8,Headphones B,Electronics,90,4.1,70,15,80
+9,Smartwatch A,Electronics,250,4.4,82,18,55
+10,Smartwatch B,Electronics,210,4.2,76,12,60
+11,Camera A,Electronics,850,4.6,84,10,22
+12,Camera B,Electronics,780,4.3,75,9,18
+13,Printer A,Electronics,200,4.1,65,12,30
+14,Printer B,Electronics,180,4.0,60,10,28
+15,Router A,Electronics,95,4.3,72,14,65
+16,Router B,Electronics,80,4.1,68,10,70
+17,Keyboard A,Electronics,45,4.4,73,20,120
+18,Keyboard B,Electronics,40,4.2,70,18,130
+19,Mouse A,Electronics,25,4.3,74,22,140
+20,Mouse B,Electronics,20,4.1,69,20,150
+21,T-Shirt A,Clothing,25,4.2,80,15,100
+22,T-Shirt B,Clothing,22,4.1,78,12,110
+23,Jeans A,Clothing,55,4.4,82,18,60
+24,Jeans B,Clothing,50,4.3,79,15,65
+25,Jacket A,Clothing,120,4.5,85,20,40
+26,Jacket B,Clothing,110,4.4,83,18,45
+27,Sneakers A,Clothing,95,4.6,88,22,70
+28,Sneakers B,Clothing,85,4.4,84,20,75
+29,Sandals A,Clothing,40,4.1,72,15,90
+30,Sandals B,Clothing,35,4.0,68,12,95
+31,Hat A,Clothing,18,4.2,66,10,120
+32,Hat B,Clothing,16,4.1,64,8,125
+33,Belt A,Clothing,22,4.3,70,12,110
+34,Belt B,Clothing,20,4.2,68,10,115
+35,Socks A,Clothing,10,4.1,65,15,200
+36,Socks B,Clothing,9,4.0,60,12,210
+37,Backpack A,Accessories,65,4.5,85,20,55
+38,Backpack B,Accessories,60,4.4,82,18,60
+39,Sunglasses A,Accessories,75,4.3,78,15,70
+40,Sunglasses B,Accessories,70,4.2,76,12,72
+41,Wallet A,Accessories,35,4.4,74,10,90
+42,Wallet B,Accessories,30,4.2,70,8,95
+43,Watch A,Accessories,150,4.6,88,18,45
+44,Watch B,Accessories,130,4.4,84,15,50
+45,Bracelet A,Accessories,40,4.1,65,10,80
+46,Bracelet B,Accessories,38,4.0,63,8,85
+47,Necklace A,Accessories,60,4.3,72,12,75
+48,Necklace B,Accessories,55,4.2,70,10,78
+49,Ring A,Accessories,90,4.4,80,15,60
+50,Ring B,Accessories,85,4.3,78,12,65
+51,Blender A,Home,80,4.4,75,15,50
+52,Blender B,Home,70,4.2,70,12,55
+53,Microwave A,Home,150,4.5,82,18,40
+54,Microwave B,Home,140,4.3,78,15,42
+55,Vacuum A,Home,200,4.6,86,20,30
+56,Vacuum B,Home,180,4.4,80,18,35
+57,Iron A,Home,50,4.2,68,10,60
+58,Iron B,Home,45,4.1,65,8,65
+59,Toaster A,Home,35,4.0,60,12,70
+60,Toaster B,Home,30,3.9,58,10,75
+61,Coffee Maker A,Home,120,4.5,84,18,45
+62,Coffee Maker B,Home,110,4.3,80,15,48
+63,Water Bottle A,Home,18,4.3,72,10,120
+64,Water Bottle B,Home,15,4.1,68,8,130
+65,Desk Lamp A,Home,28,4.2,70,12,90
+66,Desk Lamp B,Home,25,4.1,68,10,95
+67,Notebook A,Stationery,8,4.2,75,10,200
+68,Notebook B,Stationery,7,4.1,72,8,210
+69,Pen Pack A,Stationery,12,4.3,78,12,180
+70,Pen Pack B,Stationery,10,4.1,70,10,190
+71,Pencil Set A,Stationery,9,4.2,74,10,170
+72,Pencil Set B,Stationery,8,4.1,72,8,175
+73,Eraser Pack A,Stationery,5,4.0,65,8,220
+74,Eraser Pack B,Stationery,4,3.9,60,6,230
+75,Marker Set A,Stationery,14,4.3,76,10,160
+76,Marker Set B,Stationery,12,4.1,70,8,170
+77,File Folder A,Stationery,6,4.0,62,8,200
+78,File Folder B,Stationery,5,3.9,60,6,210
+79,Stapler A,Stationery,11,4.2,68,10,150
+80,Stapler B,Stationery,10,4.1,66,8,155
+81,Gaming Mouse,Electronics,60,4.6,90,20,65
+82,Gaming Keyboard,Electronics,95,4.7,92,22,55
+83,Gaming Headset,Electronics,85,4.5,88,18,60
+84,External HDD,Electronics,120,4.4,84,15,50
+85,SSD Drive,Electronics,150,4.7,91,18,45
+86,USB Flash 64GB,Electronics,25,4.3,78,10,100
+87,USB Flash 128GB,Electronics,35,4.4,80,12,90
+88,Power Bank,Electronics,40,4.5,86,15,85
+89,Phone Charger,Electronics,18,4.2,74,10,120
+90,Laptop Stand,Electronics,30,4.3,76,12,95
+91,Office Chair,Home,220,4.6,88,20,35
+92,Office Desk,Home,350,4.5,85,18,20
+93,Table Lamp,Home,45,4.3,72,12,70
+94,Wall Clock,Home,28,4.1,65,10,80
+95,Picture Frame,Home,22,4.0,60,8,90
+96,Bookshelf,Home,180,4.4,82,15,25
+97,Storage Box,Home,35,4.2,70,12,60
+98,Travel Bag,Accessories,90,4.5,84,18,50
+99,Sports Bottle,Accessories,20,4.3,75,10,100
+100,Gym Gloves,Accessories,18,4.2,72,10,110
